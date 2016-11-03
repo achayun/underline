@@ -14,7 +14,6 @@ Underline implements a compatible (although partial) commandline library. The en
 </ul>
 The asynchronous API is suitable for systems requiring high performance. It was tested on Posix AIO, Arduino and RTOS like systems.
 
-Sources:
 <h2>TODO</h2>
 The implementation is, well, minimal. There's lots to do, especially if you have special needs.
 
